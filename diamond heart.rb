@@ -1,0 +1,1526 @@
+use_synth :piano
+PLAY :D3
+PLAY :F5
+
+PLAY :A3
+PLAY :A4
+
+PLAY :D4
+PLAY :F5
+
+PLAY :A4
+
+PLAY :F5
+
+PLAY :A4
+
+PLAY :F5
+
+PLAY :A4
+
+PLAY :A2
+PLAY :E5
+
+PLAY :E3
+PLAY :A4
+
+PLAY :A3
+PLAY :E5
+
+PLAY :A4
+
+PLAY :E5
+
+PLAY :A4
+
+PLAY :E5
+
+PLAY :A4
+
+PLAY :C3
+PLAY :E5
+
+PLAY :G3
+PLAY :G4
+
+PLAY :C4
+PLAY :E5
+
+PLAY :G4
+
+PLAY :E5
+
+PLAY :G4
+
+PLAY :E5
+
+PLAY :G4
+
+PLAY :G2
+PLAY :D5
+
+PLAY :D3
+PLAY :G4
+
+PLAY :G3
+PLAY :D5
+
+PLAY :G4
+
+PLAY :D4
+
+#VERSE 1
+PLAY :D5
+
+PLAY :G4
+PLAY :D5
+
+PLAY :D5
+
+PLAY :D3
+PLAY :A4
+PLAY :F5
+
+PLAY :A3
+
+PLAY :F4
+
+PLAY :A3
+PLAY :D5
+
+PLAY :E5
+
+PLAY :F4
+PLAY :A4
+PLAY :F5
+
+PLAY :F5
+
+PLAY :A3
+PLAY :F5
+
+PLAY :F5
+
+PLAY :F4
+PLAY :A4
+PLAY :E5
+
+PLAY :A3
+PLAY :D5
+
+PLAY :C5
+
+PLAY :A2
+PLAY :A3
+PLAY :C5
+
+PLAY :A3
+
+PLAY :E4
+
+PLAY :C5
+
+PLAY :A3
+PLAY :C5
+
+PLAY :D5
+
+PLAY :E4
+PLAY :A4
+PLAY :E5
+
+PLAY :E5
+
+PLAY :A3
+PLAY :E5
+
+PLAY :E5
+
+PLAY :E4
+PLAY :A4
+PLAY :E5
+
+PLAY :A3
+PLAY :C5
+
+PLAY :C3
+PLAY :G4
+PLAY :C5
+
+PLAY :G3
+
+PLAY :E4
+
+PLAY :G3
+PLAY :C5
+
+PLAY :D5
+
+PLAY :E4
+PLAY :G4
+PLAY :E5
+
+PLAY :E5
+
+PLAY :G3
+PLAY :E5
+
+PLAY :E5
+
+PLAY :E4
+PLAY :E5
+
+PLAY :G3
+PLAY :G4
+PLAY :D5
+
+PLAY :G2
+PLAY :G4
+PLAY :B4
+
+PLAY :G3
+
+PLAY :D4
+
+PLAY :G3
+
+PLAY :D4
+
+PLAY :G3
+PLAY :D5
+
+PLAY :D4
+PLAY :G4
+PLAY :D5
+
+PLAY :G3
+PLAY :F5
+
+PLAY :C3
+PLAY :A4
+PLAY :F5
+
+PLAY :A3
+PLAY :A4
+PLAY :D5
+
+PLAY :F4
+
+PLAY :A3
+PLAY :D5
+
+PLAY :E5
+
+PLAY :F4
+PLAY :A4
+PLAY :F5
+
+PLAY :F5
+
+PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  PLAY :
+  
